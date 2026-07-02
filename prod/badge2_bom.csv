@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0402,1,220nF,
+D1,0603,1,LED_Small,
+J2,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04,
+L1,nfc-coil-2,1,1.755uH,
+R1,0603,1,47,
+U1,NT3H2111W0FHKH,1,NT3H2111-2211,
